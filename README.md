@@ -1,4 +1,5 @@
 # Tool-installation
+[GitHub's ReadMe.md document editing syntax](https://www.jianshu.com/p/9ab92efc286a)
 
 Download address of various tools
 
