@@ -2,7 +2,7 @@
 
 Download address of various tools
 
-一、spyder
+## 一、spyder
 
 1.下载spyder ide，网址如下：
 
@@ -20,7 +20,7 @@ https://bitbucket.org/spyder-ide/spyderlib/downloads/
 
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4
 
-下载后，用cmd命令进入到下载目录下，运行命令：
+3.下载后，用cmd命令进入到下载目录下，运行命令：
 
 pip intall PyQt4-4.11.4-cp27-cp27m-win_amd64.whl
 
