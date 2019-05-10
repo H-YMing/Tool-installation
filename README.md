@@ -5,6 +5,7 @@ Download address of various tools
 
 ## 一、spyder
 以下为基于python2版本
+
 1.下载spyder ide，网址如下：
 
 https://bitbucket.org/spyder-ide/spyderlib/downloads/
